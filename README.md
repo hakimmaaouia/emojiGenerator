@@ -67,10 +67,4 @@ The generated emoji image will be returned as a PNG file.
 - [Express.js](https://expressjs.com/) - Web framework for Node.js
 - [Sharp](https://sharp.pixelplumbing.com/) - High-performance image processing library
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-```
